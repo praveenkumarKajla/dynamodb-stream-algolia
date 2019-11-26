@@ -1,0 +1,23 @@
+{
+  "name": "dynamodb-stream-algolia",
+  "version": "1.1.1",
+  "description": "Update or Add dynaodb stream data directly to algolia",
+  "main": "src/index.js",
+  "dependencies": {
+    "algoliasearch": "^3.35.1",
+    "aws-sdk": "^2.575.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamodb-streams",
+    "streams",
+    "algolia",
+    "elasticsearch",
+    "solr"
+  ],
+  "author": "praveen kumar",
+  "license": "ISC"
+}
