@@ -34,7 +34,7 @@ Please make sure to update tests as appropriate.
 
 ## Author
 
-[praveenKajla](https://github.com/praveenKajla)
+[praveenKajla](https://github.com/praveenkumarKajla)
 
 ## Inspired from
 
