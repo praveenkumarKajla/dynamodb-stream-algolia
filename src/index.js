@@ -36,7 +36,7 @@ exports.pushStream = async (
       case 'REMOVE': {
         if (logs) console.log(`Removing : ${id} from index_name : ${index_name}`)
         try {
-          let response1 = await algolia.remove(index_name, id)
+          let response1 = await algolia.remove({index_name, id})
           if (logs) console.log(response1)
         } catch (e) {
           if (logs) console.log(e.message)
