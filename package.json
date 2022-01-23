@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "algoliasearch": "^4.0.3",
-    "aws-sdk": "^2.575.0"
+    "aws-sdk": ">=2.814.0"
   },
   "devDependencies": {},
   "scripts": {
